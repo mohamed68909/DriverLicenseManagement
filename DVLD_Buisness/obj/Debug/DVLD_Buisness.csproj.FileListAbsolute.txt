@@ -1,0 +1,9 @@
+D:\Projects\C#\DVLD\DVLD_Buisness\bin\Debug\DVLD_Buisness.dll
+D:\Projects\C#\DVLD\DVLD_Buisness\bin\Debug\DVLD_Buisness.pdb
+D:\Projects\C#\DVLD\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.AssemblyReference.cache
+D:\Projects\C#\DVLD\DVLD_Buisness\obj\Debug\DVLD_Buisness.csproj.CoreCompileInputs.cache
+D:\Projects\C#\DVLD\DVLD_Buisness\obj\Debug\DVLD_Buisness.dll
+D:\Projects\C#\DVLD\DVLD_Buisness\obj\Debug\DVLD_Buisness.pdb
+D:\Projects\C#\DVLD\DVLD_Buisness\bin\Debug\DVLD_DataAccess.dll
+D:\Projects\C#\DVLD\DVLD_Buisness\bin\Debug\DVLD_DataAccess.pdb
+D:\Projects\C#\DVLD\DVLD_Buisness\obj\Debug\DVLD_Bui.E5CEC4E3.Up2Date
