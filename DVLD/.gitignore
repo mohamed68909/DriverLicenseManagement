@@ -18,7 +18,6 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
-*.zip
 
 ## Visual Studio
 .vs/

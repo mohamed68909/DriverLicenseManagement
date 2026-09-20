@@ -40,4 +40,10 @@ The project follows a 3-tier architecture and consists of:
 3. Update the connection string in the configuration file to match your environment.
 4. Build and run the application.
 
+## 📖 Comprehensive Technical Reference
+
+للاطلاع على التوثيق الفني الشامل وقاموس قاعدة البيانات وقواعد العمل وهيكلية الكود التفصيلية، راجع الملف المرجعي المحدث دائماً:
+👉 **[PROJECT_REFERENCE.md](PROJECT_REFERENCE.md)**
+
+
 
